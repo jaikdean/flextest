@@ -1,0 +1,10 @@
+{
+    "name": "jaikdean/flextest",
+    "type": "project",
+    "require": {
+        "symfony/flex": "^1.0"
+    },
+    "require-dev": {
+        "symfony/phpunit-bridge": "^4.0"
+    }
+}
